@@ -1,8 +1,4 @@
----
-noteId: "5fd20f7021b311f0a308f5d26d63541a"
-tags: []
 
----
 
 # LLaMA 3.2-1B MCP Server
 
@@ -119,7 +115,3 @@ rm -rf ~/.cache/huggingface
 Use the VS Code debugger with the provided [`.vscode/launch.json`](.vscode/launch.json) configuration.
 
 ---
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
