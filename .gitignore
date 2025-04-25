@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+mcp_env/
+
+# Model files and large data
+llama3.2_1b_local/
+
+# Logs and debug files
+*.log
+
+# Environment variables
+.env
+
+# macOS system files
+.DS_Store

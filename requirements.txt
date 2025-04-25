@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+transformers
+mcp
+pydantic
+huggingface-hub
+
+# pip install -r requirements.txt
